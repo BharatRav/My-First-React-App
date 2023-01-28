@@ -1,3 +1,3 @@
 # My-First-React-App
-Simple HelloWorld Program .
+Simple "Hello React World!" Program .
 Using Babel making first App
